@@ -6,5 +6,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.13 (discord-bot)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (discord-bot)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (discord-share-screen-bot)" project-jdk-type="Python SDK" />
 </project>
